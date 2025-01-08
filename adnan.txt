@@ -1,1 +1,5 @@
-redis
+git init
+git pull origin main
+git add .
+git commit 'test'
+git push -u origin main
