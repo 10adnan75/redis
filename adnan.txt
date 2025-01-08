@@ -1,5 +1,5 @@
 git init
 git pull origin main
 git add .
-git commit 'test'
+git commit -m 'test'
 git push -u origin main
